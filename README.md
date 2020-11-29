@@ -1,11 +1,15 @@
-# Answer Digital automation suite for the standard "The Internet" Heroku app.
+# Answer Digital automation suite for the Advanced test, "automationpractice" e-commerce site.
 
 This is an automation regression test suite for Answer Digital,
-which tests the form authentication, infinite scroll and key presses functionality of the herokuapp [The Internet](http://the-internet.herokuapp.com)
+which tests [Automation Practice e-commerce site](http://automationpractice.com/index.php)
+
+# Scenarios covered
+* Scenario 1 - shopping basket item deletion
+
+# Pre-requisite requirements
 
 The project utilises Java 11, Cucumber with JUnit and Selenium Chrome webdriver.
 
-# Pre-requisite requirements
 * Java 11
 * Chrome browser
 * Chromium webdriver for your version of the browser and OS
